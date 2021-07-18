@@ -1,10 +1,10 @@
 body {
     font-family: roboto, sans-serif;
-    color: #707070;
+    color: grey;
   }
   h1 {
-    font-size: 60px;
-    margin: 20px 0;
+    font-size: 58px;
+    margin: 21px 0;
   }
   h2, h4 {
     font-size: 25px;
@@ -16,14 +16,15 @@ body {
     float: left;
   }
   .container {
-    max-width: 1100px;
-    padding: 55px 0;
+    max-width: 1150px;
+    padding: 50px 0;
+    clear: both;
     margin: auto;
     align-items:stretch;
   }
  
   .service-item {
-    max-width: 25%;
+    max-width: 23%;
     float: left;
     padding: 20px;
     border: 1px solid #ddd;
